@@ -22,7 +22,7 @@ This project analyzes vegetation coverage across urban zones in **Asunción, Par
 - **Zonal Statistics Plugin**: mean, min, max, stddev NDVI per zone
 - **SQL**: select, group, order
 - **Data Sources**:
-  - Landsat 9 Sattelite imagery (Bands 4 and 5)
+  - Landsat 9 Sattelite imagery (Level 2, Bands 4 and 5)
   - GeoBoundary & OpenStreetMap boundary data
   - Manually digitized zone reference from city map (PDF to polygon tracing)
 
