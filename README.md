@@ -35,6 +35,7 @@ This project analyzes vegetation coverage across urban zones in **Asunción, Par
 - [**Custom polygon zones** digitized manually from city map](Data/CIUDAD_DE_ASUNCION_CATASTRAL_2022.pdf)
 - [CSV file of zonal statistics with NDVI **mean, min, max, and standard deviation**](Outputs/Zonal_Statistics.csv)
 - [Styled vector map with labels and graduated colors](Outputs/Mean_NDVI_by_Zone.png)
+- [Write up of steps](Write-Up)
 
 ---
 
