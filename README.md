@@ -1,6 +1,6 @@
 # NDVI Vegetation Analysis – Asunción, Paraguay
 
-This project analyzes vegetation coverage across custom urban zones in **Asunción, Paraguay** using **NDVI (Normalized Difference Vegetation Index)** derived from Sentinel-2 satellite imagery. The goal was to assess green space distribution by manually delineated zones and calculate per-zone vegetation indices.
+This project analyzes vegetation coverage across urban zones in **Asunción, Paraguay** using **NDVI (Normalized Difference Vegetation Index)** derived from Landsat 8-9 satellite imagery. The goal was to assess green space distribution by manually delineated zones and calculate per-zone vegetation indices.
 
 ---
 
