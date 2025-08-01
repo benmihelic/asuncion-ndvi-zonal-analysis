@@ -12,4 +12,5 @@ Since detailed barrio boundaries were unavailable, zones were digitized manually
 3. Created new layer and digitized each zone manually
 
 ### Screenshots
+- [Reference Image](../Data/CIUDAD_DE_ASUNCION_CATASTRAL_2022.pdf.png)
 - [Final digitized zone layer](../Data/Manually_Created_Zones.png)
