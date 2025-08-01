@@ -1,0 +1,21 @@
+# Zonal Statistics: NDVI Summary per Zone
+
+Used QGIS Zonal Statistics plugin to calculate per-zone NDVI metrics.
+
+### Statistics Calculated
+- Mean NDVI
+- Minimum and maximum NDVI
+- Standard deviation
+- Count of raster pixels per zone
+
+### Tools Used
+- Zonal Statistics Plugin
+- Custom drawn polygon zone
+
+### Screenshots
+- [Original_Attribute_Table]
+- Plugin settings used
+
+### Observations
+- Some zones have significantly higher vegetation
+- NDVI values ranged from ~0.11 to ~0.22
