@@ -16,4 +16,3 @@ This step involved manually clipping the full NDVI Raster using open source admi
 
 ### Notes
 - Image may appear pixelated due to small clipped area
-- Data properly aligned using consistent CRS
