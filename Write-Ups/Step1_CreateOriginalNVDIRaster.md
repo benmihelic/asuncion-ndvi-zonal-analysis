@@ -9,7 +9,7 @@ This step involved calculating the NDVI from Landsat 9 bands using Python. NDVI 
 - Landsat 9 data (Level 2, bands 4 and 5)
 
 ### Python Script
-- [Create NVDI Raster](Scripts/CreateNDVIRaster.ipynb)
+- [Create NVDI Raster](../Scripts/CreateNDVIRaster.ipynb)
 
 ### Screenshots
 - [Landsat 9 Level 2 Infrared Raster Band 4](../Data/Band_4_Infrared_Raster.png)
