@@ -1,4 +1,4 @@
-# SQL Queries from CSV File: Zonal Statistics Export
+# SQL Queries from Zonal Statistics CSV
 
 After analysis in QGIS, the table was exported to CSV for use in further processing and SQL classification.
 
