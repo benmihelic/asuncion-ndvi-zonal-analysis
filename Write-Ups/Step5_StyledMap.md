@@ -4,7 +4,7 @@ Map styling was applied based on `ndvi_mean` using a color ramp.
 
 ### Tools Used
 - QGIS Symbology tab
-- Graduated color ramp (Green)
+- Graduated color ramp (White to Green)
 - Labeling with expression builder (Round to 3 digits)
 
 ### Screenshots
