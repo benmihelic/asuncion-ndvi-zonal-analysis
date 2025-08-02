@@ -8,7 +8,7 @@ Map styling was applied based on `ndvi_mean` using a color ramp.
 - Labeling with expression builder (Round to 3 digits)
 
 ### Screenshots
-- [Style Settings](../Data/Style_Settings.png
+- [Style Settings](../Data/Style_Settings.png)
 - [Styled Zones](../Data/Styled_Zones.png)
 
 
