@@ -4,7 +4,7 @@ After analysis in QGIS, the table was exported to CSV for use in further process
 
 ### Tools Used
 1. SQLite3 and Pandas in Python
-2. QGIS to export CSV file
+2. Zonal Statistics CSV file exported from QGIS
 
 ### Python Scripts
 [SQL Queries](../Scripts/SQLqueries.ipynb)
