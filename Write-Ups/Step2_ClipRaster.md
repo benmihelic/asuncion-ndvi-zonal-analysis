@@ -1,4 +1,4 @@
-# NDVI Raster Clipped to Asunción
+# Step 2: NDVI Raster Clipped to Asunción
 
 This step involved manually clipping the full NDVI Raster using open source administrative boundary data and Python:
 
