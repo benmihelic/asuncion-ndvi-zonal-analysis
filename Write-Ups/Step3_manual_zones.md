@@ -6,11 +6,11 @@ Since detailed barrio boundaries were unavailable, zones were digitized manually
 - QGIS "Add Polygon" tool
 - Scanned map reference overlaid beneath raster
 
-### Steps
-1. Loaded reference image
-2. Set transparency on NDVI raster
-3. Created new layer and digitized each zone manually
-
 ### Screenshots
-- [Reference Image](../Data/CIUDAD_DE_ASUNCION_CATASTRAL_2022.pdf)
-- [Final digitized zone layer](../Data/Manually_Created_Zones.png)
+#### Reference Map
+![Reference Image](../Screenshots/Reference_Map.png)
+#### Custom Zones
+![Final digitized zone layer](../Screenshots/Custom_Zones.png)
+
+### Notes
+- Reference Map was loaded into QGIS and custom polygons were created by tracing.
