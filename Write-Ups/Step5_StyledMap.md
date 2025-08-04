@@ -6,7 +6,7 @@ Map styling was applied based on `ndvi_mean` using a color ramp.
 - QGIS Symbology tab
 - Graduated color ramp (White to Green)
 - Labeling with expression builder (Round to 3 digits)
-- Custom Zone Layer with Zonal Statistics
+- Custom Zone Layer containing Zonal Statistics
 
 ### Screenshots
 #### Styled Zones
