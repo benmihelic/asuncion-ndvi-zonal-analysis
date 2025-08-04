@@ -30,12 +30,13 @@ This project analyzes vegetation coverage across urban zones in **Asunción, Par
 
 ## Outputs
 
-- [**NDVI raster** calculated from Landsat 9 sattelite images](Scripts/CreateNDVIRaster.ipynb)
-- [**Clippled NDVI raster** using administrative boundaries](Scripts/SnipRaster.ipynb)
-- [**Custom polygon zones** digitized manually from city map](Data/CIUDAD_DE_ASUNCION_CATASTRAL_2022.pdf)
-- [CSV file of zonal statistics with NDVI **mean, min, max, and standard deviation**](Outputs/Zonal_Statistics.csv)
-- [Styled vector map with labels and graduated colors](Outputs/Mean_NDVI_by_Zone.png)
-- [Write up of steps](Write-Up)
+- [**NDVI raster** calculated from Landsat 9 sattelite images](Write-Ups/Step1_CreateNDVIRaster.md)
+- [**Clippled NDVI raster** using administrative boundaries](Write-Ups/Step2_ClipRaster.md)
+- [**Custom polygon zones** digitized manually from city map](Write-Ups/Step3_manual_zones.md)
+- [Calculated Zonal statistics with NDVI **mean, min, max, and standard deviation**](Write-Ups/Step4_CalculateZonalStatistics.md)
+- [Styled vector map with labels and graduated colors](Write-Ups/Step5_StyledMap.md)
+- [SQL Queries on Zonal Statistics CSV file](Write-Ups/Step6_SQL_from_Zonal_CSV.md)
+- [Final Map](Write-Ups/Step7_Final_Map.md)
 
 ---
 
