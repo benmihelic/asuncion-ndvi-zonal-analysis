@@ -18,10 +18,10 @@ This step involved calculating the NDVI from Landsat 9 bands using Python. NDVI 
 ![Landsat 9 Level 2 Near Infrared Raster Band 5](../Screenshots/Band_5_Near_Infrared_Raster.png)
 #### NDVI Raster Output:  (NIR - Red) / (NIR + Red)
 ![NDVI Raster Output](../Screenshots/NDVI_Raster_Full.png)
-#### Python Output:
-![NDVI Raster Output](../Screenshots/NDVI_Raster_Full.png)
-#### NDVI Raster Output:  (NIR - Red) / (NIR + Red)
-![NDVI Raster Output](../Screenshots/NDVI_Raster_Full.png)
+#### Python Output: Asuncion is along River at very top of image
+![NDVI Raster Output](../Screenshots/NDVI_Output_Python.png)
+#### Used to Identify Outliers
+![NDVI Raster Output](../Screenshots/NDVI Value Distribution.png)
 
 ### Notes
 - NIR + Red = 0 for many values.  These were stored as 'Nan' so as not to skew the final output
