@@ -1,4 +1,4 @@
-# Step 1: Create NDVI Raster From Satellite Images to Asunción
+# Step 1: Create NDVI Raster From Satellite Images of Asunción
 
 This step involved calculating the NDVI from Landsat 9 bands using Python. NDVI helps visualize vegetation health:
 
