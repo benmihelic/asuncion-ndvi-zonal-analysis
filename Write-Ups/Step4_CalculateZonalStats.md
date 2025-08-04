@@ -8,13 +8,15 @@ Used QGIS Zonal Statistics plugin to calculate per-zone NDVI metrics.
 - Standard deviation
 - Count of raster pixels per zone
 
-### QGIS Tools Used
-- Zonal Statistics Plugin
-- Custom drawn polygon zone
+### Tools/Data Used
+- QGIS Zonal Statistics Plugin
+- Custom drawn polygon zones
 
 ### Screenshots
-- [Original_Attribute_Table](../Data/Original_Zone_Attribute_Table.png)
-- [Zonal_Statistics_Attribute_Table](../Data/Zonal_Statistics_Attribute_Table.png)
+#### Zonal Statitics Attribute Table
+![Zonal_Statistics_Attribute_Table](../Screenshots/Zonal_Statistics_Attribute_Table.png)
+#### Custom Zones Layer
+![Original_Attribute_Table](../Screenshots/Custom_Zones.png)
 
 ### Observations
 - NDVI values ranged from ~0.11 to ~0.22 which makes sense given that it is city and not a dense forest.
