@@ -1,4 +1,4 @@
-# Custom Polygon Zones Digitized Manually
+# Step 3: Custom Polygon Zones Digitized Manually
 
 Since detailed barrio boundaries were unavailable, zones were digitized manually using a high-quality reference image.
 
