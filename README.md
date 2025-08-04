@@ -28,7 +28,7 @@ This project analyzes vegetation coverage across urban zones in **Asunción, Par
 
 ---
 
-## Outputs
+## Outputs / Steps
 
 - [**NDVI raster** calculated from Landsat 9 sattelite images](Write-Ups/Step1_CreateOriginalNDVIRaster.md)
 - [**Clippled NDVI raster** using administrative boundaries](Write-Ups/Step2_ClipRaster.md)
