@@ -25,3 +25,4 @@ This step involved calculating the NDVI from Landsat 9 bands using Python. NDVI 
 
 ### Notes
 - NIR + Red = 0 for many values.  These were stored as 'Nan' so as not to skew the final output
+- Full Sattelite Rasters too large to upload to Data Folder.
