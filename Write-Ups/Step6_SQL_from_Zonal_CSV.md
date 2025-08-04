@@ -2,7 +2,7 @@
 
 After analysis in QGIS, the table was exported to CSV for use in further processing and SQL classification.
 
-### Tools Used
+### Tools/Data Used
 1. SQLite3 and Pandas in Python
 2. Zonal Statistics CSV file exported from QGIS
 
