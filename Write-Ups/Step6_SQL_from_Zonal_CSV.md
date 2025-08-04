@@ -10,8 +10,11 @@ After analysis in QGIS, the table was exported to CSV for use in further process
 [SQL Queries](../Scripts/SQLqueries.ipynb)
 
 ### Screenshots
+#### Styled Map By Zone Number
 ![Styled_Map_by_Zone_Number](../Screenshots/Styled_Zones_by_Zone_Number.png)
+#### Zones Rearranged by Mean NDVI
 ![Zones Rearranged by mean NDVI](../Screenshots/SQL_Low_to_High.png)
+#### Zones Classified into 3 Groups
 ![Zones Classified into 3 groups](../Screenshots/SQL_Classification.png)
 
 ### Notes
