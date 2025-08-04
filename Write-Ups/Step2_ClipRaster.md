@@ -4,7 +4,8 @@ This step involved manually clipping the full NDVI Raster using open source admi
 
 ### Tools/Data Used
 - `geopandas`, `matplotlib`, `rasterio` in Python
-- Manual clipping with shapefile from Geoboundaries Data
+- NDVI Raster Output
+- Manual clipping using shapefile from Geoboundaries Data
 
 ### Custom Python Script
 [SnipRaster](../Scripts/SnipRaster.ipynb)
