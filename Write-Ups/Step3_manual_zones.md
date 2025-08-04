@@ -2,7 +2,7 @@
 
 Since detailed barrio boundaries were unavailable, zones were digitized manually using a high-quality reference image.
 
-### Tools Used
+### Tools/Data Used
 - QGIS "Add Polygon" tool
 - Scanned map reference overlaid beneath raster
 
