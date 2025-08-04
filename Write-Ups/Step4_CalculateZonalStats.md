@@ -8,7 +8,7 @@ Used QGIS Zonal Statistics plugin to calculate per-zone NDVI metrics.
 - Standard deviation
 - Count of raster pixels per zone
 
-### Tools Used
+### QGIS Tools Used
 - Zonal Statistics Plugin
 - Custom drawn polygon zone
 
