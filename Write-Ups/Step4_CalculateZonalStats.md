@@ -1,4 +1,4 @@
-# Zonal Statistics: NDVI Summary per Zone
+# Step 4: Zonal Statistics - NDVI Summary per Zone
 
 Used QGIS Zonal Statistics plugin to calculate per-zone NDVI metrics.
 
