@@ -11,6 +11,7 @@ Used QGIS Zonal Statistics plugin to calculate per-zone NDVI metrics.
 ### Tools/Data Used
 - QGIS Zonal Statistics Plugin
 - Custom drawn polygon zones
+- Clipped NDVI Raster
 
 ### Screenshots
 #### Zonal Statitics Attribute Table
