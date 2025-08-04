@@ -2,7 +2,7 @@
 
 This step involved manually clipping the full NDVI Raster using open source administrative boundary data and Python:
 
-### Tools Used
+### Tools/Data Used
 - `geopandas`, `matplotlib`, `rasterio` in Python
 - Manual clipping with shapefile from Geoboundaries Data
 
