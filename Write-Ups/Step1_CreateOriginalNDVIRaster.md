@@ -4,7 +4,7 @@ This step involved calculating the NDVI from Landsat 9 bands using Python. NDVI 
 
 **Formula:** `(NIR - Red) / (NIR + Red)`
 
-### Tools Used
+### Tools/Data Used
 - `rasterio`, `numpy`, `matplotlib`
 - Landsat 9 data (Level 2, bands 4 and 5)
 
