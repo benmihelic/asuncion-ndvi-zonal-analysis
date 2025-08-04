@@ -8,10 +8,8 @@ Map styling was applied based on `ndvi_mean` using a color ramp.
 - Labeling with expression builder (Round to 3 digits)
 
 ### Screenshots
-#### Style 
-- [Style Settings](../Data/Style_Settings.png)
-- [Styled Zones](../Data/Styled_Zones.png)
-
+#### Styled Zones
+![Styled Zones](../Screenshots/Styled_Zones.png)
 
 ### Notes
 - Adjusted gradient for small data range.  (The average means do not vary much)
