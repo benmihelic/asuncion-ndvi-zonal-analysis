@@ -1,13 +1,14 @@
-# Styled Vector Map with Graduated Colors and Labels
+# Step 5: Styled Vector Map with Graduated Colors and Labels
 
 Map styling was applied based on `ndvi_mean` using a color ramp.
 
-### Tools Used
+### Tools/Data Used
 - QGIS Symbology tab
 - Graduated color ramp (White to Green)
 - Labeling with expression builder (Round to 3 digits)
 
 ### Screenshots
+#### Style 
 - [Style Settings](../Data/Style_Settings.png)
 - [Styled Zones](../Data/Styled_Zones.png)
 
