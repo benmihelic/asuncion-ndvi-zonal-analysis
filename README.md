@@ -59,5 +59,5 @@ This project analyzes vegetation coverage across urban zones in **Asunción, Par
 
 ---
 
-> **Author**: Ben Mihelic – July 2025  
+> **Author**: Ben Mihelic – August 2025  
 > [benmihelic30@gmail.com](mailto:benmihelic30@gmail.com)
