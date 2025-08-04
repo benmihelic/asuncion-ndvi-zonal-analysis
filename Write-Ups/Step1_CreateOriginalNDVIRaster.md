@@ -2,7 +2,7 @@
 
 This step involved calculating the NDVI from Landsat 9 bands using Python. NDVI helps visualize vegetation health:
 
-**Formula:** `(NIR - Red) / (NIR + Red)`
+**Formula:** `NDVI = (NIR - Red) / (NIR + Red)`
 
 ### Tools/Data Used
 - `rasterio`, `numpy`, `matplotlib`
