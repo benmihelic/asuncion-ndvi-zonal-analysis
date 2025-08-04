@@ -36,7 +36,7 @@ This project analyzes vegetation coverage across urban zones in **Asunción, Par
 - [Calculated Zonal statistics with NDVI **mean, min, max, and standard deviation**](Write-Ups/Step4_CalculateZonalStats.md)
 - [Styled vector map with labels and graduated colors](Write-Ups/Step5_StyledMap.md)
 - [SQL Queries on Zonal Statistics CSV file](Write-Ups/Step6_SQL_from_Zonal_CSV.md)
-- [Final Map](Write-Ups/Step7_Final_Map.md)
+- [Final Map](Write-Ups/Step7_FinalMap.md)
 
 ---
 
