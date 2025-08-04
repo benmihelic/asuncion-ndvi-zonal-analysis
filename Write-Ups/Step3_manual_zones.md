@@ -8,7 +8,7 @@ Since detailed barrio boundaries were unavailable, zones were digitized manually
 
 ### Screenshots
 #### Reference Map
-![Reference Image](../Screenshots/Reference_Map.png)
+![Reference Image](../Screenshots/Reference_Map_Small.png)
 #### Custom Zones
 ![Final digitized zone layer](../Screenshots/Custom_Zones.png)
 
